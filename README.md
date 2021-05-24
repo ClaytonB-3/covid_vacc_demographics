@@ -7,6 +7,14 @@ This repository contains code cleaning and aggregating vaccination and demograph
 
 The packages used in this analysis are listed in the requirements file in this repository and are: pandas, numpy, matplotlib, seaborn, geopandas, swifter, and shapely.
 
+## Preparing Python
+1. Install Python 3 via Anaconda or other method. 
+2. In command line navigate to the directory containing the requirements text file and run `pip install -r requirements_vacc.txt` to install the required packages.
+
+## Running the Code
+1. Clone the repo for this project to your computer ([instructions])(https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository)
+2. Run the python file `COVID_demo_geo_analysis.py` from the repo
+
 
 ## Data Sources
 CDC 'Vaccine Hesitancy for COVID-19: County and local estimates' dataset found [here](https://data.cdc.gov/Vaccinations/Vaccine-Hesitancy-for-COVID-19-County-and-local-es/q9mh-h2tw)
