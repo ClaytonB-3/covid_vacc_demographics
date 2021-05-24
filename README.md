@@ -15,6 +15,9 @@ The packages used in this analysis are listed in the requirements file in this r
 1. Clone the repo for this project to your computer ([instructions])(https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository)
 2. Run the python file `COVID_demo_geo_analysis.py` from the repo
 
+## Viewing Existing Analysis
+I've uploaded my Jupyter Notebook to the repo, so if you just want to look at the code with more detailed explainations take a look at that file (`COVID_Analysis-May23_Data.ipynb`)
+
 
 ## Data Sources
 CDC 'Vaccine Hesitancy for COVID-19: County and local estimates' dataset found [here](https://data.cdc.gov/Vaccinations/Vaccine-Hesitancy-for-COVID-19-County-and-local-es/q9mh-h2tw)
